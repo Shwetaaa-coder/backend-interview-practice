@@ -1,0 +1,15 @@
+{
+  "name": "02-simple-calculator-api",
+  "version": "1.0.0",
+  "description": "* Build an API that performs basic arithmetic operations (addition, subtraction, multiplication, division).\r * Use query parameters to pass numbers and the operation to perform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
